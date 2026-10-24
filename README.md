@@ -79,15 +79,15 @@ This project demonstrates how Power BI can be used to analyze workforce data, id
 ### 1. Home Page
 ![HR Analytics Home Page](images/home%20page.PNG)
 
-### 2. Employee Profile
-![Employee Profile](images/employee%20profile.PNG)
-
-### 3. Salary Analysis
-![Salary Analysis](images/salary.PNG)
-
-### 4. Company Details
+### 2. Company Details
 ![Company Details](images/company%20details.PNG)
 
+### 3. Employee Profile
+![Employee Profile](images/employee%20profile.PNG)
+
+### 4. Salary Analysis
+![Salary Analysis](images/salary.PNG)
+
 ### 5. Business Insights
-![Business Insights and Key Findings](images/insights.PNG)
+![Business Insights and Key Findings](images/insight.PNG)
 
