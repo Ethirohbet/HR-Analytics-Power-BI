@@ -72,3 +72,22 @@ This repository contains dashboard screenshots, the Power BI report where availa
 ## Conclusion
 
 This project demonstrates how Power BI can be used to analyze workforce data, identify HR trends, and communicate business insights that support informed organizational decision-making.
+
+
+## 📊 Dashboard Preview
+
+### 1. Home Page
+![HR Analytics Home Page](images/home%20page.png)
+
+### 2. Employee Profile
+![Employee Profile](images/employee%20profile.png)
+
+### 3. Salary Analysis
+![Salary Analysis](images/salary.png)
+
+### 4. Company Details
+![Company Details](images/company%20details.png)
+
+### 5. Business Insights
+![Business Insights and Key Findings](images/insights.png)
+
